@@ -1,9 +1,5 @@
 line1: shared
-<<<<<<< HEAD
-line2: master VERSION
-=======
-line2: FEATURE VERSION
->>>>>>> b2c70d8fbaa0 (C5: feature edits line2)
+line2: FEATURE VERSION2
 line3: feature change
 line4: feature change
 line5: feature change
