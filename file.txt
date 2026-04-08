@@ -1,6 +1,6 @@
 line1: shared
 line2: master VERSION
-line3: shared
+line3: feature change
 line4: feature change
 line5: feature change
 line6: feature change
