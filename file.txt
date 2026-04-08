@@ -1,5 +1,5 @@
 line1: upstream VERSION1
-line2: upstream VERSION3
+line2: FEATURE VERSION
 line3: feature change
 line4: feature change
 line5: feature change
