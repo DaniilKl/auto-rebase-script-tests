@@ -1,3 +1,3 @@
 line1: shared
-line2: original
+line2: master VERSION
 line3: shared
