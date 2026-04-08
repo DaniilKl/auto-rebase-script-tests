@@ -1,5 +1,5 @@
 line1: shared
-line2: master VERSION
+line2: FEATURE VERSION
 line3: feature change
 line4: feature change
 line5: feature change
