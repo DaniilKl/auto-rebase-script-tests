@@ -1,3 +1,4 @@
 line1: shared
 line2: original
 line3: shared
+line4: feature change
