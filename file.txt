@@ -4,3 +4,4 @@ line3: feature change
 line4: feature change
 line5: feature change
 line6: feature change
+line7: feature change
