@@ -1,3 +1,4 @@
 line1: upstream VERSION1
 line2: upstream VERSION3
 line3: shared
+line4: feature
